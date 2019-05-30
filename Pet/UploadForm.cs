@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HiPets
+namespace Pet
 {
-    public partial class Form1 : Form
+    public partial class UploadForm : Form
     {
-        public Form1()
+        public UploadForm()
         {
             InitializeComponent();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

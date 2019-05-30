@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pet.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SvcKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">설정이 필요합니다.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

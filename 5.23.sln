@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.438
+VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiPets", "HiPets.csproj", "{EE204F13-86CF-4619-8572-031B18FA918D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pet", "Pet\Pet.csproj", "{0DABA4C7-F58B-4711-9364-8FFC46390796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EE204F13-86CF-4619-8572-031B18FA918D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE204F13-86CF-4619-8572-031B18FA918D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE204F13-86CF-4619-8572-031B18FA918D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE204F13-86CF-4619-8572-031B18FA918D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DABA4C7-F58B-4711-9364-8FFC46390796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DABA4C7-F58B-4711-9364-8FFC46390796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DABA4C7-F58B-4711-9364-8FFC46390796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DABA4C7-F58B-4711-9364-8FFC46390796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1F1295F1-7DD7-43E7-87D4-41EC8E9DE2E9}
+		SolutionGuid = {D62F939B-1381-40F6-8222-D0DE6EE36F85}
 	EndGlobalSection
 EndGlobal
